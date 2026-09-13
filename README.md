@@ -45,3 +45,14 @@ The following features are calculated:
 balanceDiffOrig = oldbalanceOrg - newbalanceOrig
 
 balanceDiffDest = newbalanceDest - oldbalanceDest
+
+## Application Screenshots
+
+### Main Application
+
+![Fraud Detection App](screenshots/app.png)
+
+### Legitimate Transaction
+
+![Legitimate Transaction](screenshots/legitimate.png)
+
